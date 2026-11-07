@@ -1,0 +1,9 @@
+[submodule "backend-railway"]
+	path = backend-railway
+	url = https://github.com/Bagassatwi/backend-railway
+[submodule "dashboard-web"]
+	path = dashboard-web
+	url = https://github.com/Bagassatwi/dashboard-web
+[submodule "camera-web"]
+	path = camera-web
+	url = https://github.com/Bagassatwi/camera-web
